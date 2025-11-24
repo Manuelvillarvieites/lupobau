@@ -84,11 +84,14 @@ Use simplified workflow (NO SEO agents):
 [3] sitemap-executor (create app/ structure)
 [VALIDATE-2] code-structure-validator (TypeScript check only)
 
-**Phase 3: i18n Setup (if multi-language)**
+**Phase 3: i18n Setup**
 [4] i18n-setup-agent (next-intl config)
 
 **Phase 4: Basic Content**
-[5] Create placeholder content (no SEO optimization)
+[5] Create placeholder content (no SEO optimization), just company specific
+
+**Phase 5: Props**
+[6] Add props to components if needed and set i18n keys for every text
 
 **Skip entirely:**
 - ❌ requirements-validator (no SEO requirements)
