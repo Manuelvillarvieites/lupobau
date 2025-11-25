@@ -7,6 +7,7 @@ color: red
 
 ## CORE FUNCTION
 Quality gate after Phase 5 (Content). Validates seo-content-writer agents produced high-quality, SEO-optimized content in both languages with proper i18n integration.
+If there is something important missing from the checklist below, fail and tell to redo the last agent with that feedback.
 
 ## DEPENDENCIES
 - `messages/de.json` (from seo-content-writer-de)

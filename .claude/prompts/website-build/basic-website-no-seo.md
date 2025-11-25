@@ -82,16 +82,15 @@ Use simplified workflow (NO SEO agents):
 **Phase 2: Architecture + Build**
 [2] sitemap-analyst (plan pages, select components via MCP)
 [3] sitemap-executor (create app/ structure)
-[VALIDATE-2] code-structure-validator (TypeScript check only)
+[VALIDATE-2a] code-structure-validator (TypeScript check)
+[4] i18n-text-replacer (replace ALL hardcoded text with i18n keys)
+[VALIDATE-2b] i18n-coverage-validator (verify 100% i18n coverage)
 
 **Phase 3: i18n Setup**
-[4] i18n-setup-agent (next-intl config)
+[5] i18n-setup-agent (routing/middleware only, keys already exist)
 
 **Phase 4: Basic Content**
-[5] Create placeholder content (no SEO optimization), just company specific
-
-**Phase 5: Props**
-[6] Add props to components if needed and set i18n keys for every text
+[6] Create basic content (replace placeholder values in messages/*.json with company-specific text)
 
 **Skip entirely:**
 - ❌ requirements-validator (no SEO requirements)
@@ -304,9 +303,9 @@ Run full-website-with-seo.md on existing project:
    ```
 
 2. **Add Real Content**
-   - Edit component files directly
-   - Replace placeholder text
-   - Add real images to /public
+    - Edit component files directly
+    - Replace placeholder text
+    - Add real images to /public
 
 3. **Deploy**
    ```bash
@@ -317,8 +316,8 @@ Run full-website-with-seo.md on existing project:
    ```
 
 4. **Optional: Add SEO Later**
-   - Run full-website-with-seo.md as "revision"
-   - Parent adds SEO layers to existing structure
+    - Run full-website-with-seo.md as "revision"
+    - Parent adds SEO layers to existing structure
 
 ---
 

@@ -7,6 +7,7 @@ color: red
 
 ## CORE FUNCTION
 Quality gate after Phase 1 (Discovery). Validates requirements.md has sufficient detail for architecture phase.
+If there is something important missing from the checklist below, fail and tell to redo the last agent with that feedback.
 
 ## DEPENDENCIES
 - `.claude/planning/[project]/requirements.md` (from requirements-analyst)

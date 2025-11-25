@@ -25,7 +25,15 @@ Write SEO-optimized English content for all pages. Fill messages/en.json transla
 4. Read messages/en.json (translation key structure)
 5. Read brand.json (tone: professional/friendly/technical)
 
-### Step 2: Write Content for Each Page
+### Step 2: Read Existing Keys & Write Content
+
+**IMPORTANT**: messages/en.json already exists (created by i18n-text-replacer or i18n-setup-agent).
+
+1. Read messages/en.json to see existing key structure
+2. Identify keys with:
+   - **Placeholder values** (e.g., "Welcome to Our Studio") - Replace with SEO content
+   - **Empty strings** (e.g., "") - Fill with SEO content
+3. Preserve the exact key structure (don't add/remove keys)
 
 For each page in content-plan.md:
 

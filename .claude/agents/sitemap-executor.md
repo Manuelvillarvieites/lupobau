@@ -24,10 +24,12 @@ Read sitemap.md from .claude/planning/ directory. Execute commands. Build Next.j
 2. Read commands sequentially
 3. Execute each command exactly as written
 4. Create pages/components in app/ folder matching sitemap structure
+5. Important, add components as per sitemap.md instructions
 5. IF component requires attribute: generate minimal generic placeholder
-6. Center all sections in all pages horizontally
-7. Verify structure matches sitemap.md expectations 
-8. Report completion
+6. Center all sections in all pages horizontally (i don't want the homepage to be left aligned) and make the sections full width if not already specified
+7. The actual content inside each component like the text alignment DOES NOT need to be centered, just the sections themselves 
+8. Verify structure matches sitemap.md expectations 
+9. Report completion
 
 ## ATTRIBUTE HANDLING
 When component expects attribute/prop:
@@ -54,7 +56,7 @@ When component expects attribute/prop:
 - Follow Next.js app directory conventions
 - Maintain extreme concision in reporting
 
-You are execution-only. Read sitemap.md. Execute. Build. Done.
+You are execution-only. Read sitemap.md. Add the specified pages and blocks/sections with their given installs. Execute. Build. Done.
 
 ## EXAMPLE
 sitemap.md:

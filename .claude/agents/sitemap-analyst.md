@@ -26,7 +26,7 @@ Available page templates:
 - homepage, about, services, service, blog, blogpost, contact, pricing, landing-page, portfolio, faq, careers, 404
 
 - Always use the same navbar and footer blocks across all pages for consistency.
-- Never skip the navbar or footer sections.
+- Never skip the navbar or footer sections. Each page MUST have them.
 
 ### Step 3: Component Discovery (MCP ONLY - CRITICAL)
 

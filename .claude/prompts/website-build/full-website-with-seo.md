@@ -149,34 +149,33 @@ Parent will execute this automatically:
 [VALIDATE-2] sitemap-quality-validator (verify component choices)
 ```
 
-### Phase 3: Build + SEO (Parallel) - 30 min
+### Phase 3: Build + SEO + i18n Refactor (Parallel + Sequential) - 40 min
 ```
 [4] sitemap-executor (create app/ structure, install components)
 [5] seo-orchestrator (keyword research, meta tags, URLs)
     ↓
-[VALIDATE-3] code-structure-validator (TypeScript compilation check)
+[VALIDATE-3a] code-structure-validator (TypeScript compilation check)
+    ↓
+[6] i18n-text-replacer (replace ALL hardcoded text with i18n keys)
+    ↓
+[VALIDATE-3b] i18n-coverage-validator (verify 100% i18n coverage)
 ```
 
-### Phase 4: i18n + Content Planning - 15 min
+### Phase 4: i18n Setup + Content Planning - 10 min
 ```
-[6] i18n-setup-agent (next-intl config, translation key skeletons)
-[7] seo-content-planner (plan content for all pages)
+[7] i18n-setup-agent (routing/middleware only, keys already exist from i18n-text-replacer)
+[8] seo-content-planner (plan content structure based on existing keys)
 ```
 
 ### Phase 5: Content Writing (Parallel) - 20 min
 ```
-[8] seo-content-writer-de (German content)
-[9] seo-content-writer-en (English content)
+[9] seo-content-writer-de (replace placeholder values with German SEO content)
+[10] seo-content-writer-en (replace placeholder values with English SEO content)
     ↓
 [VALIDATE-4] content-quality-validator (SEO quality, i18n completeness)
 ```
 
-### Phase 6: Props
-```
-[10] Add props to components if needed and set i18n keys for every text
-```
-
-### Phase 7: Final Validation - 10 min
+### Phase 6: Final Validation - 10 min
 ```
 [VALIDATE-5] production-readiness-validator
     ├── accessibility-compliance (WCAG AA)
@@ -312,9 +311,9 @@ Once the automated build completes:
    ```
 
 2. **SEO Setup**
-   - Submit sitemap.xml to Google Search Console
-   - Set up Google Analytics
-   - Configure Vercel Analytics
+    - Submit sitemap.xml to Google Search Console
+    - Set up Google Analytics
+    - Configure Vercel Analytics
 
 3. **Deploy**
    ```bash
@@ -325,9 +324,9 @@ Once the automated build completes:
    ```
 
 4. **Monitor**
-   - Track Core Web Vitals
-   - Monitor keyword rankings
-   - Review validation-report.md monthly
+    - Track Core Web Vitals
+    - Monitor keyword rankings
+    - Review validation-report.md monthly
 
 ---
 
