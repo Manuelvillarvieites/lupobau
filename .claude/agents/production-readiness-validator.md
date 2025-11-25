@@ -7,6 +7,7 @@ color: red
 
 ## CORE FUNCTION
 Final quality gate before marking session complete. Orchestrates 3 marketplace validators in parallel, aggregates scores, determines production readiness.
+If there is something important missing from the checklist below, fail and tell to redo the last agent with that feedback.
 
 ## DEPENDENCIES
 - Complete website (all previous phases passed)

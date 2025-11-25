@@ -7,6 +7,7 @@ color: red
 
 ## CORE FUNCTION
 Quality gate after Phase 3 (Build). Validates sitemap-executor created proper Next.js structure with working components and i18n placeholders.
+If there is something important missing from the checklist below, fail and tell to redo the last agent with that feedback.
 
 ## DEPENDENCIES
 - `app/` directory (from sitemap-executor)
@@ -30,8 +31,11 @@ Quality gate after Phase 3 (Build). Validates sitemap-executor created proper Ne
 - [ ] Proper type definitions (5 pts)
 
 ### i18n Integration (20 pts)
-- [ ] All text uses i18n hooks (no hard-coded strings) (15 pts)
-- [ ] Empty translation keys created in messages/*.json (5 pts)
+- [ ] No hardcoded strings in components (grep for strings in JSX) (10 pts)
+- [ ] All pages have useTranslations() import (5 pts)
+- [ ] Translation keys exist in messages/*.json (5 pts)
+
+**NOTE**: Full i18n coverage validation happens in Gate 3b (i18n-coverage-validator)
 
 **PASS Threshold: ≥80 points**
 

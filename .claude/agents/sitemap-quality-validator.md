@@ -15,14 +15,17 @@ Quality gate after Phase 2 (Architecture). Validates sitemap.md has proper struc
 
 ## VALIDATION CRITERIA
 
+If there is something important missing from the checklist below, fail and tell to redo the last agent with that feedback.
+
 ### Page Coverage (25 points)
+- [ ] If no shadcnblocks components are used, FAIL immediately (0 pts) and redo sitemap-analyst!
 - [ ] All required pages from requirements.md present (15 pts)
 - [ ] Logical page hierarchy (Home → deeper pages) (5 pts)
 - [ ] Routes follow Next.js app router conventions (5 pts)
 - [ ] All sections are center-aligned, MUST be verified (0 pts, mandatory)
 
 ### Component Selection Quality (30 points)
-- [ ] Each page has hero section (5 pts)
+- [ ] Each page has hero section, a navbar and a footer, else Fail immediately (5 pts)
 - [ ] Appropriate blocks for page type (portfolio → gallery, services → features) (10 pts)
 - [ ] CTA (call-to-action) present on key pages (5 pts)
 - [ ] Testimonials/social proof on conversion pages (5 pts)
