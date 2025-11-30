@@ -1,1 +1,653 @@
-{}
+{
+  "common": {
+    "navbar": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "pricing": "Leistungen",
+      "contact": "Kontakt",
+      "location": "Liechtenstein"
+    },
+    "buttons": {
+      "buyNow": "Angebot anfordern",
+      "moreTemplates": "Mehr erfahren",
+      "getStarted": "Jetzt kontaktieren",
+      "getStartedNow": "Jetzt kontaktieren",
+      "learnMore": "Mehr erfahren",
+      "primaryButton": "Primärer Button",
+      "secondaryButton": "Sekundärer Button",
+      "submit": "Absenden",
+      "viewAllTestimonials": "Alle Bewertungen ansehen",
+      "getInTouch": "Kontaktieren Sie uns",
+      "getDirections": "Richtungen abrufen",
+      "seeAllBlocks": "Alle Leistungen anzeigen",
+      "documentation": "Dokumentation",
+      "seePricing": "Leistungen anzeigen"
+    },
+    "footer": {
+      "heading": "LupoBau AG",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "followUs": "Folgen Sie uns",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "facebook": "Facebook",
+      "home": "Startseite",
+      "photos": "Fotos",
+      "Videos": "Videos",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "privacy": "Datenschutz",
+      "designed": "Designed in",
+      "designedLocation": "Liechtenstein"
+    },
+    "forms": {
+      "fullName": "Vollständiger Name",
+      "firstAndLastName": "Vor- und Nachname",
+      "email": "E-Mail-Adresse",
+      "workEmail": "Geschäftliche E-Mail-Adresse",
+      "company": "Unternehmensname",
+      "employees": "Anzahl der Mitarbeiter",
+      "message": "Nachricht",
+      "typeYourMessage": "Geben Sie Ihre Nachricht ein",
+      "writeMessage": "Schreiben Sie Ihre Nachricht",
+      "terms": "Bedingungen",
+      "acceptTerms": "Ich akzeptiere die",
+      "optional": "(optional)"
+    }
+  },
+  "hero129": {
+    "title": "Strassenbau Liechtenstein – Hochwertige Pflästerungen & Belagsarbeiten von LupoBau AG",
+    "description": "Vertrauen Sie auf 15+ Jahre Erfahrung im professionellen Strassenbau. Wir realisieren Ihre Pflästerungen und Belagsarbeiten in Liechtenstein mit höchster Qualität. Von der Planung bis zur Fertigstellung begleitet Sie unser erfahrenes Team fachgerecht. Denn der Weg ist das Ziel – und die Qualität bestimmt unseren Erfolg.",
+    "cta": "Jetzt Angebot anfordern",
+    "ctaSecondary": "Unsere Leistungen",
+    "trusted": "Vertraut von über 100+ Kunden in Liechtenstein",
+    "manyMore": "Weitere Referenzen verfügbar"
+  },
+  "stats17": {
+    "badge": "ERFAHRUNG & QUALITÄT",
+    "heading": "Zahlen, die für sich sprechen",
+    "description": "LupoBau AG steht für Zuverlässigkeit und professionelle Handwerkskunst im Strassenbau. Unsere Erfolgsgeschichte basiert auf Jahrzehnten von Erfahrung und tausenden zufriedener Kunden in Liechtenstein.",
+    "trendingUp": "Stetig wachsend seit der Gründung",
+    "showingVisitors": "Referenzen aus Liechtenstein und der Region",
+    "stats": [
+      {
+        "title": "15+",
+        "description": "Jahre Erfahrung im Strassenbau"
+      },
+      {
+        "title": "200+",
+        "description": "Erfolgreich abgeschlossene Projekte"
+      },
+      {
+        "title": "4",
+        "description": "Erfahrene Teammitglieder"
+      }
+    ]
+  },
+  "services6": {
+    "heading": "Unsere Leistungen im Überblick",
+    "description": "LupoBau AG bietet umfassende Leistungen im Strassenbau und Tiefbau für Liechtenstein. Professionelle Pflästerungen, hochwertige Belagsarbeiten und zuverlässige Instandhaltung – wir setzen auf Qualität.",
+    "services": [
+      {
+        "title": "Professionelle Pflästerungen",
+        "description": "Hochwertige Pflästerungen mit Natursteinpflaster, Verbundsteinpflaster und Betonpflaster. Fachgerecht verlegt für Einfahrten, Wege und Plätze in Liechtenstein.",
+        "items": [
+          "Natursteinpflaster",
+          "Verbundsteinpflaster",
+          "Betonpflaster"
+        ]
+      },
+      {
+        "title": "Hochwertige Belagsarbeiten",
+        "description": "Professionelle Belagsarbeiten vom Asphalt bis zum Betonbelag. Unsere Belagsarbeiten zeichnen sich durch Langlebigkeit und fachgerechte Ausführung aus.",
+        "items": [
+          "Asphaltierung",
+          "Betonbeläge",
+          "Randsteinarbeiten"
+        ]
+      },
+      {
+        "title": "Kompletter Strassenbau",
+        "description": "Vollständiger Strassenbau von der Planung bis zur Fertigstellung. Wir begleiten Ihr Projekt fachgerecht und professionell in jedem Stadium.",
+        "items": [
+          "Planung & Beratung",
+          "Ausführung",
+          "Qualitätskontrolle"
+        ]
+      },
+      {
+        "title": "Wartung & Instandhaltung",
+        "description": "Regelmäßige Instandhaltung und Sanierungen für langfristige Werterhaltung. Unsere Instandhaltungsleistungen sichern die Lebensdauer Ihrer Investitionen.",
+        "items": [
+          "Reparaturen",
+          "Sanierungen",
+          "Oberflächenbehandlung"
+        ]
+      }
+    ]
+  },
+  "feature124": {
+    "heading": "Qualität bestimmt unseren Erfolg",
+    "description": "Bei LupoBau AG setzen wir auf höchste Qualität in jedem Projekt. Hochwertige Materialien, fachgerechte Ausführung und zuverlässige Projektabwicklung – das ist unser Standard im Strassenbau.",
+    "items": [
+      "Hochwertige Materialien aus der Region",
+      "Fachgerechte Ausführung durch erfahrenes Team",
+      "Zuverlässige Projektabwicklung"
+    ],
+    "cta": "Kostenlos beraten lassen"
+  },
+  "process1": {
+    "heading": "Unser Arbeitsprozess – Von der Planung bis zur Fertigstellung",
+    "description": "Professionelle Begleitung Ihres Strassenbau-Projekts von Anfang bis Ende. Denn der Weg ist das Ziel – mit höchster Qualität in jedem Schritt.",
+    "cta": "Projekt anfragen",
+    "steps": [
+      {
+        "title": "1. Erstberatung & Besichtigung",
+        "description": "Vor-Ort-Analyse Ihrer Baustelle und ausführliche Beratung. Wir verstehen Ihre Anforderungen und entwickeln maßgeschneiderte Lösungen."
+      },
+      {
+        "title": "2. Planung & Angebotserstellung",
+        "description": "Detaillierte Planung mit transparenten Festpreisen. Sie erhalten ein konkretes Angebot für Ihr Strassenbau-Projekt."
+      },
+      {
+        "title": "3. Professionelle Ausführung",
+        "description": "Umsetzung durch unser erfahrenes Expertenteam. Fachgerecht und pünktlich – das ist unser Anspruch."
+      },
+      {
+        "title": "4. Abnahme & Qualitätskontrolle",
+        "description": "Gemeinsame Abnahme mit umfassender Gewährleistung. Ihre Zufriedenheit ist unser Erfolg."
+      }
+    ]
+  },
+  "hero229": {
+    "button1": "Mehr erfahren",
+    "button2": "Kontaktieren Sie uns",
+    "heading": "Über LupoBau AG – Ihr lokales Strassenbauunternehmen in Liechtenstein",
+    "description": "Seit 15 Jahren ist LupoBau AG Ihr zuverlässiger Partner im Strassenbau. Mit unserem engagierten Team verwirklichen wir Ihre Projekte mit höchster Qualität und fachgerechter Ausführung.",
+    "seePricing": "Leistungen anzeigen"
+  },
+  "hero58": {
+    "heading": "Pflästerungen & Belagsarbeiten Liechtenstein – Unsere Leistungen",
+    "description": "Hochwertige Pflästerungen und professionelle Belagsarbeiten in Liechtenstein. Wir realisieren Ihr Projekt mit fachgerechter Ausführung und langlebigen Materialien.",
+    "cta": "Angebot anfordern"
+  },
+  "hero2": {
+    "badge": "Jederzeit erreichbar",
+    "heading": "Kontakt – Ihr Strassenbau-Partner in Liechtenstein",
+    "description": "Kontaktieren Sie uns für Ihr Strassenbau-Projekt in Liechtenstein. Unser Team beantwortet Ihre Fragen gerne und erstellt Ihnen ein unverbindliches Angebot.",
+    "button1": "E-Mail schreiben",
+    "button2": "Jetzt anrufen"
+  },
+  "testimonial19": {
+    "badge": "Mit 5 Sternen von 50+ Kunden bewertet",
+    "heading": "Was unsere Kunden über LupoBau AG sagen",
+    "description": "Erfahrungen aus Liechtenstein – echte Bewertungen von zufriedenen Kunden",
+    "testimonials": [
+      {
+        "name": "Thomas Müller, Vaduz",
+        "role": "Privatperson",
+        "content": "Professionell, zuverlässig und freundlich – das Team von LupoBau AG hat unsere Einfahrt mit hoher Qualität gepflastert. Jederzeit gerne wieder!"
+      },
+      {
+        "name": "Beatrice Keller, Balzers",
+        "role": "Privatperson",
+        "content": "Die Belagsarbeiten wurden termingerecht und in höchster Qualität ausgeführt. Das Team war immer erreichbar und hilfsbereit."
+      },
+      {
+        "name": "Andreas Frick, Schaan",
+        "role": "Geschäftsführer",
+        "content": "LupoBau AG hat unser Projekt professionell geplant und umgesetzt. Die Qualität und Zuverlässigkeit sind beeindruckend."
+      },
+      {
+        "name": "Petra Brunner, Triesen",
+        "role": "Privatperson",
+        "content": "Danke für die hervorragende Pflasterarbeit! Das Team war flexibel und hat alles wie versprochen umgesetzt."
+      },
+      {
+        "name": "Klaus Erne, Gamprin",
+        "role": "Privatperson",
+        "content": "Sehr zufrieden mit der Ausführung der Strassenbau-Arbeiten. Das Team von LupoBau AG setzt auf Qualität und das merkt man deutlich."
+      },
+      {
+        "name": "Maria Ospelt, Schellenberg",
+        "role": "Privatperson",
+        "content": "Professionelle Beratung und fachgerechte Ausführung – genau das was wir uns für unser Projekt gewünscht haben."
+      }
+    ]
+  },
+  "about16": {
+    "heading": "Über unsere Expertise",
+    "quote": "Die Qualität bestimmt unseren Erfolg – das ist das Leitprinzip von LupoBau AG.",
+    "description": "LupoBau AG wurde gegründet, um professionelle und zuverlässige Leistungen im Strassenbau zu bieten. Unser Team setzt auf hochwertige Materialien, fachgerechte Ausführung und langfristige Kundenbeziehungen. Denn der Weg ist das Ziel – mit jeder Pflästerung, mit jedem Belagsarbeit, mit jeder Instandhaltung.",
+    "stats": [
+      {
+        "number": "15+",
+        "description": "Jahre Erfahrung im lokalen Strassenbau Liechtenstein"
+      },
+      {
+        "number": "200+",
+        "description": "Erfolgreich abgeschlossene Projekte in Liechtenstein"
+      },
+      {
+        "number": "100%",
+        "description": "Kundenzufriedenheit durch Qualität und Zuverlässigkeit"
+      }
+    ]
+  },
+  "contact9": {
+    "badge": "Kontaktieren Sie uns",
+    "heading": "Kontaktieren Sie LupoBau AG",
+    "description": "Wir sind für Sie erreichbar – kontaktieren Sie uns mit Ihren Fragen zum Strassenbau oder für ein Angebot",
+    "methods": [
+      {
+        "title": "E-Mail",
+        "description": "Schreiben Sie uns eine E-Mail und erhalten Sie innerhalb von 24 Stunden eine Antwort",
+        "contact": "info@lupobau.li"
+      },
+      {
+        "title": "Telefon",
+        "description": "Rufen Sie uns montags bis freitags zwischen 08:00 und 17:00 Uhr an",
+        "contact": "+423 (0)XYZ XXXX"
+      },
+      {
+        "title": "Büro Liechtenstein",
+        "description": "Besuchen Sie unser Büro in Vaduz und sprechen Sie direkt mit unserem Team",
+        "contact": "Adresse in Vaduz, Liechtenstein"
+      }
+    ]
+  },
+  "contact11": {
+    "heading": "Kontakt – LupoBau AG",
+    "description": "Wir freuen uns auf Ihre Anfrage zum Strassenbau in Liechtenstein",
+    "corporateOffice": "Firmenhauptsitz",
+    "address": "LupoBau AG, Liechtenstein",
+    "emailUs": "E-Mail uns",
+    "careers": "Team",
+    "press": "Referenzen",
+    "followUs": "Folgen Sie uns",
+    "inquiries": "Anfragen"
+  },
+  "cta21": {
+    "heading": "Bereit für Ihr Strassenbau-Projekt in Liechtenstein?",
+    "cta": "Jetzt kostenlos beraten lassen"
+  },
+  "navbar22": {
+    "logo": "LupoBau AG",
+    "location": "Liechtenstein",
+    "navLinks": [
+      {
+        "name": "Startseite",
+        "href": "/"
+      },
+      {
+        "name": "Über uns",
+        "href": "/uber-uns"
+      },
+      {
+        "name": "Leistungen",
+        "href": "/leistungen"
+      },
+      {
+        "name": "Kontakt",
+        "href": "/kontakt"
+      }
+    ]
+  },
+  "faq5": {
+    "badge": "FAQ",
+    "heading": "Häufig gestellte Fragen",
+    "description": "Antworten auf wichtige Fragen zu unseren Leistungen im Strassenbau",
+    "faqs": [
+      {
+        "question": "Welche Pflästerungen bietet LupoBau AG an?",
+        "answer": "Wir bieten hochwertige Pflästerungen mit Natursteinpflaster, Verbundsteinpflaster und Betonpflaster. Alle Pflästerungen werden fachgerecht und langlebig verlegt."
+      },
+      {
+        "question": "Wie lange dauert ein Strassenbau-Projekt?",
+        "answer": "Die Dauer hängt vom Umfang des Projekts ab. Bei der Erstberatung kalkulieren wir einen realistischen Zeitrahmen. Unsere Strassenbau-Arbeiten sind immer termingerecht."
+      },
+      {
+        "question": "Bietet LupoBau AG auch Belagsarbeiten an?",
+        "answer": "Ja, wir führen hochwertige Belagsarbeiten aus – von Asphaltierungen bis Betonbelägen. Alle Belagsarbeiten entsprechen höchsten Qualitätsstandards."
+      },
+      {
+        "question": "Welche Garantie gibt es für die Arbeiten?",
+        "answer": "Alle unsere Arbeiten im Strassenbau werden mit Gewährleistung durchgeführt. Wir haften für die Qualität unserer Leistungen und kümmern uns um eventuelle Mängel."
+      },
+      {
+        "question": "Wie kann ich ein Angebot für mein Projekt erhalten?",
+        "answer": "Kontaktieren Sie uns per E-Mail oder Telefon. Wir kommen zu einer Vor-Ort-Besichtigung und erstellen Ihnen ein unverbindliches Angebot für Ihr Strassenbau-Projekt."
+      }
+    ]
+  },
+  "team1": {
+    "heading": "Unser erfahrenes Team",
+    "description": "Das Team von LupoBau AG bringt Jahrzehnte von Erfahrung in Strassenbau, Pflästerungen und Belagsarbeiten zusammen. Wir arbeiten mit hohem Anspruch und setzen auf Qualität.",
+    "members": [
+      {
+        "name": "Miguel Angel Villar Fernandez",
+        "role": "Bauleiter & Fachhandwerker"
+      },
+      {
+        "name": "Jose Villar Perez",
+        "role": "Bauleiter & Fachhandwerker"
+      },
+      {
+        "name": "Sandra Eberle-Frick",
+        "role": "Verwaltung & Projektkoordination"
+      },
+      {
+        "name": "Wolfgang Ferdinand Eberle",
+        "role": "Geschäftsführer"
+      }
+    ]
+  },
+  "contact5": {
+    "heading": "Datenschutz-Kontakt",
+    "description": "Fragen zum Datenschutz? Kontaktieren Sie unseren Datenschutzbeauftragten."
+  },
+  "contact16": {
+    "heading": "Alternative Kontaktmöglichkeiten",
+    "description": "Weitere Wege, um uns zu erreichen"
+  },
+  "feature2": {
+    "title": "Qualität im Strassenbau",
+    "description": "Hochwertige Materialien und fachgerechte Ausführung sind die Grundlage unserer Arbeiten. Die Qualität bestimmt unseren Erfolg."
+  },
+  "feature10": {
+    "heading": "Was zeichnet LupoBau AG aus",
+    "features": [
+      {
+        "title": "Lokale Expertise",
+        "description": "15+ Jahre Erfahrung im Strassenbau in Liechtenstein"
+      },
+      {
+        "title": "Zuverlässigkeit",
+        "description": "Termine werden eingehalten, Qualität ist garantiert"
+      },
+      {
+        "title": "Handwerkskunst",
+        "description": "Fachgerechte Ausführung durch erfahrenes Team"
+      },
+      {
+        "title": "Qualitätsversprechen",
+        "description": "Hochwertige Materialien und professionelle Leistungen"
+      }
+    ]
+  },
+  "feature33": {
+    "heading": "LupoBau AG – Rechtsform und Gründung",
+    "description": "LupoBau AG ist ein etabliertes Unternehmen im Strassenbau mit Sitz in Liechtenstein. Gegründet auf den Prinzipien von Qualität und Zuverlässigkeit, begleiten wir Ihre Projekte mit höchstem Anspruch."
+  },
+  "faq14": {
+    "badge": "FAQ",
+    "heading": "Fragen zum Kontakt",
+    "description": "Wie erreichen Sie uns schnell und zuverlässig",
+    "faqs": [
+      {
+        "question": "Wie schnell erhalte ich eine Antwort auf meine Anfrage?",
+        "answer": "Wir antworten auf E-Mails innerhalb von 24 Stunden und nehmen Anrufe während der Bürozeiten entgegen."
+      },
+      {
+        "question": "Kann ich einen Vor-Ort-Termin vereinbaren?",
+        "answer": "Ja, wir bieten kostenlose Vor-Ort-Beratungen an. Rufen Sie uns an oder schreiben Sie eine E-Mail zur Terminabsprache."
+      },
+      {
+        "question": "Bekomme ich innerhalb kurzer Zeit ein Angebot?",
+        "answer": "Nach der Besichtigung erstellen wir zeitnah ein detailliertes Angebot für Ihr Strassenbau-Projekt."
+      },
+      {
+        "question": "Können Sie auch eilige Projekte übernehmen?",
+        "answer": "Sprechen Sie mit unserem Team – je nach Kapazität können wir eventuell auch kurzfristig helfen."
+      }
+    ]
+  },
+  "hero175": {
+    "heading": "Impressum – Rechtliche Informationen",
+    "description": "Alle rechtlichen Informationen zu LupoBau AG"
+  },
+  "process2": {
+    "heading": "Unser Arbeitsprozess",
+    "description": "Transparent und professionell von der Planung bis zur Fertigstellung",
+    "steps": [
+      {
+        "title": "1. Beratung",
+        "description": "Ausführliche Vor-Ort-Beratung zu Ihrem Strassenbau-Projekt"
+      },
+      {
+        "title": "2. Planung",
+        "description": "Detaillierte Planung und Kostenvoranschlag"
+      },
+      {
+        "title": "3. Ausführung",
+        "description": "Fachgerechte Umsetzung durch unser Team"
+      },
+      {
+        "title": "4. Übergabe",
+        "description": "Qualitätskontrolle und Projektabschluss"
+      },
+      {
+        "title": "5. Betreuung",
+        "description": "Laufende Unterstützung und Wartung"
+      }
+    ]
+  },
+  "projects6": {
+    "heading": "Referenzen – Unsere Projekte",
+    "description": "Erfolgreiche Strassenbau-Projekte in Liechtenstein",
+    "projects": [
+      {
+        "title": "Pflästerung Privatgrundstück Vaduz",
+        "description": "Hochwertige Natursteinpflasterung mit Entwässerung"
+      },
+      {
+        "title": "Belagsarbeiten Schaan",
+        "description": "Professionelle Asphaltierung und Randsteinarbeiten"
+      },
+      {
+        "title": "Kompletter Strassenbau Balzers",
+        "description": "Planung, Ausführung und Qualitätskontrolle"
+      },
+      {
+        "title": "Instandhaltung Geschäftspark",
+        "description": "Regelmäßige Wartung und Sanierungsarbeiten"
+      },
+      {
+        "title": "Pflästerungsarbeiten Triesen",
+        "description": "Verbundsteinpflaster mit hochwertiger Verarbeitung"
+      },
+      {
+        "title": "Belagsarbeiten Gamprin",
+        "description": "Betonbelag mit professioneller Oberflächenbehandlung"
+      }
+    ]
+  },
+  "services4": {
+    "heading": "Unsere Leistungen im Detail",
+    "description": "Professionelle Leistungen im Strassenbau und Tiefbau",
+    "services": [
+      {
+        "title": "Pflästerungen Liechtenstein",
+        "description": "Hochwertige Pflästerungen mit verschiedenen Materialien. Natursteinpflaster bieten zeitlose Eleganz, Verbundsteinpflaster Langlebigkeit, Betonpflaster Wirtschaftlichkeit. Alle Pflästerungen werden fachgerecht und langlebig verlegt. Unser Team im Strassenbau setzt auf Qualität.",
+        "items": [
+          "Natursteinpflaster",
+          "Verbundsteinpflaster",
+          "Betonpflaster mit Entwässerung"
+        ]
+      },
+      {
+        "title": "Belagsarbeiten Liechtenstein",
+        "description": "Professionelle Belagsarbeiten vom Asphalt bis zum Betonbelag. Unsere Belagsarbeiten zeichnen sich durch hochwertige Verarbeitung und Langlebigkeit aus. Wir führen Asphaltierungen, Betonbeläge und Randsteinarbeiten mit höchsten Standards aus.",
+        "items": [
+          "Asphaltierung und Asphaltarbeiten",
+          "Betonbeläge und Oberflächenbehandlung",
+          "Randsteinarbeiten und Bordsteine"
+        ]
+      },
+      {
+        "title": "Strassenbau in Liechtenstein",
+        "description": "Kompletter Strassenbau von der Planung bis zur Fertigstellung. Wir begleiten Ihr Projekt fachgerecht in allen Phasen. Planung, Ausführung und Qualitätskontrolle – alles aus einer Hand.",
+        "items": [
+          "Planung und Beratung",
+          "Bauvorbereitung und Entwässerung",
+          "Ausführung und Kontrolle"
+        ]
+      },
+      {
+        "title": "Instandhaltung und Sanierungen",
+        "description": "Regelmäßige Instandhaltung und Sanierungen für langfristige Werterhaltung. Unsere Instandhaltungsleistungen sichern Ihre Investitionen. Von Reparaturen bis zu Sanierungen – wir kümmern uns.",
+        "items": [
+          "Reparaturen und Ausbesserungen",
+          "Sanierungen und Erneuerungen",
+          "Oberflächenbehandlung und Schutz"
+        ]
+      }
+    ]
+  },
+  "stats19": {
+    "badge": "UNSER ERFOLG",
+    "heading": "Zahlen und Fakten",
+    "description": "LupoBau AG – gegründet auf Qualität und Zuverlässigkeit",
+    "stats": [
+      {
+        "number": "15+",
+        "description": "Jahre Erfahrung"
+      },
+      {
+        "number": "200+",
+        "description": "Projekte realisiert"
+      },
+      {
+        "number": "100%",
+        "description": "Zufriedenheit"
+      }
+    ]
+  },
+  "team13": {
+    "heading": "Direkter Kontakt zu unserem Team",
+    "description": "Sprechen Sie direkt mit den Experten von LupoBau AG",
+    "members": [
+      {
+        "name": "Miguel Angel Villar Fernandez",
+        "role": "Bauleiter"
+      },
+      {
+        "name": "Jose Villar Perez",
+        "role": "Bauleiter"
+      },
+      {
+        "name": "Sandra Eberle-Frick",
+        "role": "Verwaltung"
+      },
+      {
+        "name": "Wolfgang Ferdinand Eberle",
+        "role": "Geschäftsführer"
+      }
+    ]
+  },
+  "testimonial8": {
+    "badge": "Kundenbewertungen",
+    "heading": "Was Kunden von LupoBau AG berichten",
+    "description": "Echte Bewertungen von zufriedenen Kunden aus Liechtenstein",
+    "testimonials": [
+      {
+        "name": "Thomas Müller",
+        "role": "Privatperson, Vaduz",
+        "content": "Sehr zufrieden mit der professionellen Ausführung unserer Pflästerung. Das Team war zuverlässig und freundlich!"
+      },
+      {
+        "name": "Beatrice Keller",
+        "role": "Privatperson, Balzers",
+        "content": "Hervorragende Qualität bei den Belagsarbeiten. Die Termineinhaltung und Kommunikation waren sehr gut."
+      },
+      {
+        "name": "Andreas Frick",
+        "role": "Geschäftsführer, Schaan",
+        "content": "LupoBau AG hat unser komplettes Strassenbau-Projekt professionell geplant und ausgeführt. Jederzeit wieder!"
+      },
+      {
+        "name": "Petra Brunner",
+        "role": "Privatperson, Triesen",
+        "content": "Das Team ist flexibel, kompetent und setzt auf Qualität. Die Arbeit überzeugt völlig."
+      },
+      {
+        "name": "Klaus Erne",
+        "role": "Privatperson, Gamprin",
+        "content": "Professionelle Beratung und hochwertige Ausführung. Das ist LupoBau AG – zuverlässig und kompetent!"
+      },
+      {
+        "name": "Maria Ospelt",
+        "role": "Privatperson, Schellenberg",
+        "content": "Wir sind sehr zufrieden mit der Qualität und Zuverlässigkeit. Das Team von LupoBau AG ist empfehlenswert!"
+      }
+    ]
+  },
+  "testimonial25": {
+    "badge": "5 Sterne Bewertung",
+    "heading": "Kundenerfahrungen mit LupoBau AG",
+    "description": "Professionelle Strassenbau-Leistungen, die überzeugen",
+    "testimonials": [
+      {
+        "name": "Thomas Müller, Vaduz",
+        "role": "Privatperson",
+        "content": "Professionelle Pflästerungsarbeiten mit höchster Qualität. Das Team war zuverlässig und termingerecht."
+      },
+      {
+        "name": "Beatrice Keller, Balzers",
+        "role": "Privatperson",
+        "content": "Belagsarbeiten auf hohem Niveau. Die Kommunikation war transparent und die Ausführung beeindruckend."
+      },
+      {
+        "name": "Andreas Frick, Schaan",
+        "role": "Unternehmer",
+        "content": "Kompletter Strassenbau aus einer Hand – Planung, Ausführung, Qualitätskontrolle. Sehr zufrieden!"
+      },
+      {
+        "name": "Petra Brunner, Triesen",
+        "role": "Privatperson",
+        "content": "Flexibel, kompetent, zuverlässig – das ist LupoBau AG. Jederzeit gerne wieder!"
+      }
+    ]
+  },
+  "timeline10": {
+    "heading": "Unsere Geschichte",
+    "description": "Die Entwicklung von LupoBau AG",
+    "milestones": [
+      {
+        "year": "2009",
+        "title": "Gründung",
+        "description": "LupoBau AG wird gegründet mit der Vision, professionelle Strassenbau-Leistungen anzubieten."
+      },
+      {
+        "year": "2012",
+        "title": "Expansion",
+        "description": "Das Team wächst, erste größere Projekte in Liechtenstein werden realisiert."
+      },
+      {
+        "year": "2015",
+        "title": "Established",
+        "description": "LupoBau AG ist bekannt für Qualität und Zuverlässigkeit im Strassenbau."
+      },
+      {
+        "year": "2018",
+        "title": "Wachstum",
+        "description": "Über 150 Projekte erfolgreich abgeschlossen – stetiges Wachstum in Liechtenstein."
+      },
+      {
+        "year": "2022",
+        "title": "Modernisierung",
+        "description": "Investment in moderne Ausrüstung und Verfahren für noch bessere Qualität."
+      },
+      {
+        "year": "2024",
+        "title": "Zukunft",
+        "description": "Weiterhin höchste Qualität und Zuverlässigkeit im Strassenbau – denn der Weg ist das Ziel."
+      }
+    ]
+  },
+  "structured-data": {
+    "siteName": "LupoBau AG",
+    "description": "Professionelle Leistungen im Strassenbau, Pflästerungen und Belagsarbeiten in Liechtenstein. 15+ Jahre Erfahrung, 200+ Projekte, 100% Kundenzufriedenheit."
+  }
+}

@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/_next/'],
       },
     ],
-    sitemap: 'https://realecontinental.ch/sitemap.xml',
+    sitemap: 'https://lupobau.li/sitemap.xml',
   };
 }

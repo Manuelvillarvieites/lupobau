@@ -1,12 +1,12 @@
 import { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://realecontinental.ch';
+const BASE_URL = 'https://lupobau.li';
 
 const pages = [
   { path: '', priority: 1.0, changeFrequency: 'weekly' as const },
-  { path: '/about', priority: 0.8, changeFrequency: 'monthly' as const },
-  { path: '/services', priority: 0.9, changeFrequency: 'monthly' as const },
-  { path: '/contact', priority: 0.8, changeFrequency: 'monthly' as const },
+  { path: '/uber-uns', priority: 0.8, changeFrequency: 'monthly' as const },
+  { path: '/leistungen', priority: 0.9, changeFrequency: 'monthly' as const },
+  { path: '/kontakt', priority: 0.9, changeFrequency: 'monthly' as const },
   { path: '/impressum', priority: 0.3, changeFrequency: 'yearly' as const },
   { path: '/datenschutz', priority: 0.3, changeFrequency: 'yearly' as const },
 ];

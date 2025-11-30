@@ -10,52 +10,59 @@
 
 ## INPUTS [EDIT HERE]
 
+Lupobau AG ist ein Strassenbau Unternehmung die lokal in Liechtenstein
+tätig ist. Das Unternehmen führt Pflästerungen und Belagsarbeiten aus.
+Das Unternehmen besteht aus 4 Arbeiter. 2 Arbeiter sind in der
+Strassenbau tätig: Miguel Angel Villar Fernandez und Jose Villar Perez.
+Die anderen 2 Arbeiter sind in der Verwaltung tätig: Sandra Eberle-Frick und
+Wolfgang Ferdinand Eberle. Wolfgang Ferdinand Eberle ist auch der Geschäftsführer.
+Das Unternehmen hat folgende Mottos:
+LupoBau AG - Denn der Weg ist das Ziel
+LupoBau AG - die Qualität bestimmt unseren Erfolg
+
+Use as many parallel agents as possible. Run tasks in parallel if possible.
+
 ### Business Information
-- **Company Name**: [Your company name]
-- **Industry**: [Industry/niche]
-- **Value Proposition**: [What makes you unique - 1-2 sentences]
-- **Target Audience**: [B2B/B2C, company size, demographics]
-- **Geographic Focus**: [Countries/regions you serve]
+- **Company Name**: LupoBau AG
+- **Industry**: Pflästerungen und Belagsarbeiten
+- **Value Proposition**: Lokale Unternehmung in Liechtenstein mit Fokus auf Qualität und Kundenzufriedenheit.
+- **Target Audience**: B2B und B2C lokale Kunden
+- **Geographic Focus**: Liechtenstein
 
 ### Pages Required
 List all pages you need (examples):
 - Homepage
 - About Us
-- Services/Products
-- Pricing
-- Blog
+- Services
 - Contact
-- FAQ
-- [Add more...]
+- Impressum
+- Datenschutz
 
 ### Languages
-- **Primary Language**: [e.g., en (English)]
-- **Secondary Languages**: [e.g., de (German), fr (French)]
+- **Primary Language**: de (German)
 
 ### SEO Keywords
-- **Primary Keywords** (1-3): [Main keywords you want to rank for]
-- **Secondary Keywords** (5-10): [Supporting keywords]
-- **Competitors**: [Competitor URLs to analyze]
+- **Primary Keywords** (1-3): Strassenbau Liechtenstein, Pflästerungen Liechtenstein, Belagsarbeiten Liechtenstein
+- **Secondary Keywords** (5-10): Strassenbauunternehmen, lokale Strassenbau Firma, hochwertige Pflästerungen, professionelle Belagsarbeiten
+- **Competitors**: https://frickbau.com, https://www.hiltibau.li, https://www.brogle-ag.com/DE/Default.asp
 
 ### Features
 Check all that apply:
-- [ ] Contact form
+- [x] Contact form
 - [ ] Blog/News section
 - [ ] Pricing calculator
 - [ ] Booking/Demo scheduling
 - [ ] Newsletter signup
 - [ ] E-commerce
-- [ ] Customer testimonials
+- [x] Customer testimonials
 - [ ] Case studies
 - [ ] Multi-language support (next-intl)
-- [ ] SEO optimization
+- [x] SEO optimization
 - [ ] Analytics integration
 
 ### Brand Guidelines (Optional)
-- **Tone**: [Professional / Friendly / Technical / Playful]
-- **Colors**: [If you have specific brand colors, list hex codes]
-- **Fonts**: [If you have specific fonts]
-- **Logo**: [Path to logo file if available]
+- **Tone**: Professional and Friendly
+- **Colors**: ##1f497d, #ffff02, #ffffff
 
 ---
 

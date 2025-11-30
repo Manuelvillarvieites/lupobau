@@ -1,91 +1,101 @@
 interface StructuredDataProps {
   locale: string;
-  page?: 'home' | 'about' | 'services' | 'contact' | 'impressum' | 'datenschutz';
+  page?: 'home' | 'uber-uns' | 'leistungen' | 'kontakt' | 'impressum' | 'datenschutz';
 }
 
-const BASE_URL = 'https://realecontinental.ch';
+const BASE_URL = 'https://lupobau.li';
 
 export function StructuredData({ locale, page = 'home' }: StructuredDataProps) {
   const organization = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
-    name: 'Reale Continental GmbH',
+    name: 'LupoBau AG',
     url: BASE_URL,
-    logo: `${BASE_URL}/Logos/Logo-wordmark.png`,
+    logo: `${BASE_URL}/logo.png`,
+    description:
+      locale === 'de'
+        ? 'Professioneller Strassenbau, Pflästerungen und Belagsarbeiten in Liechtenstein'
+        : 'Professional road construction, paving and surfacing in Liechtenstein',
     contactPoint: {
       '@type': 'ContactPoint',
-      telephone: '+41 76 420 97 60',
+      telephone: '+423-XXX-XXXX',
       contactType: 'customer service',
-      availableLanguage: ['German', 'English'],
+      areaServed: 'LI',
+      availableLanguage: ['de', 'en'],
     },
     sameAs: [],
   };
 
   const localBusiness = {
     '@context': 'https://schema.org',
-    '@type': 'AutoBodyShop',
+    '@type': 'LocalBusiness',
     '@id': `${BASE_URL}/#localbusiness`,
-    name: 'Reale Continental GmbH',
+    name: 'LupoBau AG',
     description:
       locale === 'de'
-        ? 'Professionelle Karosserie- und Frontscheibenreparatur in Dielsdorf. Direkte Versicherungsabrechnung.'
-        : 'Professional bodywork and windshield repair in Dielsdorf. Direct insurance billing.',
+        ? 'Professioneller Strassenbau, Pflästerungen und Belagsarbeiten in Liechtenstein. Ihr lokaler Experte mit 4-köpfigem Team.'
+        : 'Professional road construction, paving and surfacing in Liechtenstein. Your local expert with 4-person team.',
     url: `${BASE_URL}/${locale}`,
-    telephone: '+41 76 420 97 60',
-    email: 'luigireale@hotmail.com',
+    telephone: '+423-XXX-XXXX',
+    email: 'info@lupobau.li',
     priceRange: '$$',
+    address: {
+      '@type': 'PostalAddress',
+      addressCountry: 'LI',
+      addressLocality: 'Vaduz',
+    },
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: 47.141,
+      longitude: 9.5209,
+    },
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-        opens: '08:00',
-        closes: '18:00',
+        opens: '07:00',
+        closes: '17:00',
       },
     ],
     areaServed: {
-      '@type': 'GeoCircle',
-      geoMidpoint: {
-        '@type': 'GeoCoordinates',
-        latitude: 47.48,
-        longitude: 8.45,
-      },
-      geoRadius: '30000',
+      '@type': 'Country',
+      name: 'Liechtenstein',
     },
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
-      name: locale === 'de' ? 'Unsere Leistungen' : 'Our Services',
+      name: locale === 'de' ? 'Strassenbau-Leistungen' : 'Road Construction Services',
       itemListElement: [
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: locale === 'de' ? 'Karosserieschäden' : 'Bodywork Repair',
+            name: locale === 'de' ? 'Pflästerungen' : 'Paving',
             description:
               locale === 'de'
-                ? 'Professionelle Reparatur von Blechschäden, Dellen und Unfallschäden'
-                : 'Professional repair of body damage, dents, and accident damage',
+                ? 'Hochwertige Pflästerungen mit Naturstein, Verbundstein und Betonpflaster'
+                : 'High-quality paving with natural stone, interlocking pavers and concrete',
           },
         },
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: locale === 'de' ? 'Frontscheibenreparatur' : 'Windshield Repair',
+            name: locale === 'de' ? 'Belagsarbeiten' : 'Road Surfacing',
             description:
               locale === 'de'
-                ? 'Steinschlagreparatur und Scheibenaustausch'
-                : 'Chip repair and windshield replacement',
+                ? 'Professionelle Asphaltierung und Belagsarbeiten für Strassen und Wege'
+                : 'Professional asphalt and surfacing work for roads and paths',
           },
         },
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: locale === 'de' ? 'Versicherungsabwicklung' : 'Insurance Claims',
+            name: locale === 'de' ? 'Strasseninstandhaltung' : 'Road Maintenance',
             description:
               locale === 'de'
-                ? 'Komplette Abwicklung mit direkter Versicherungsabrechnung'
-                : 'Complete handling with direct insurance billing',
+                ? 'Wartung und Instandhaltung von Strassen und Pflästerungen'
+                : 'Maintenance and upkeep of roads and paving',
           },
         },
       ],
@@ -95,20 +105,29 @@ export function StructuredData({ locale, page = 'home' }: StructuredDataProps) {
   const breadcrumbLabels: Record<string, Record<string, string>> = {
     de: {
       home: 'Startseite',
-      about: 'Über uns',
-      services: 'Leistungen',
-      contact: 'Kontakt',
+      'uber-uns': 'Über uns',
+      leistungen: 'Leistungen',
+      kontakt: 'Kontakt',
       impressum: 'Impressum',
       datenschutz: 'Datenschutz',
     },
     en: {
       home: 'Home',
-      about: 'About',
-      services: 'Services',
-      contact: 'Contact',
+      'uber-uns': 'About',
+      leistungen: 'Services',
+      kontakt: 'Contact',
       impressum: 'Imprint',
       datenschutz: 'Privacy Policy',
     },
+  };
+
+  const pageRoutes: Record<string, string> = {
+    home: '',
+    'uber-uns': '/uber-uns',
+    leistungen: '/leistungen',
+    kontakt: '/kontakt',
+    impressum: '/impressum',
+    datenschutz: '/datenschutz',
   };
 
   const getBreadcrumb = () => {
@@ -126,7 +145,7 @@ export function StructuredData({ locale, page = 'home' }: StructuredDataProps) {
         '@type': 'ListItem',
         position: 2,
         name: breadcrumbLabels[locale]?.[page] || page,
-        item: `${BASE_URL}/${locale}/${page}`,
+        item: `${BASE_URL}/${locale}${pageRoutes[page]}`,
       });
     }
 

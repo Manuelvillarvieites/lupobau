@@ -1,0 +1,418 @@
+{
+  "common": {
+    "navbar": {
+      "home": "Home",
+      "about": "About Us",
+      "pricing": "Services",
+      "contact": "Contact",
+      "location": "Liechtenstein"
+    },
+    "buttons": {
+      "buyNow": "Request Quote",
+      "moreTemplates": "Learn More",
+      "getStarted": "Get Started",
+      "getStartedNow": "Start Now",
+      "learnMore": "Learn More",
+      "primaryButton": "Request Service",
+      "secondaryButton": "View Services",
+      "submit": "Submit",
+      "viewAllTestimonials": "View all testimonials",
+      "getInTouch": "Contact Us",
+      "getDirections": "Get Directions",
+      "seeAllBlocks": "See all services",
+      "documentation": "More Info",
+      "seePricing": "View Services"
+    },
+    "footer": {
+      "heading": "LupoBau AG",
+      "email": "Email",
+      "phone": "Phone",
+      "followUs": "Follow Us",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "facebook": "Facebook",
+      "home": "Home",
+      "photos": "Photos",
+      "videos": "Videos",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy",
+      "designed": "Designed in",
+      "designedLocation": "Liechtenstein"
+    },
+    "forms": {
+      "fullName": "Full name",
+      "firstAndLastName": "First and last name",
+      "email": "Email address",
+      "workEmail": "Work email address",
+      "company": "Company name",
+      "employees": "Number of employees",
+      "message": "Message",
+      "typeYourMessage": "Tell us about your project",
+      "writeMessage": "Write your message",
+      "terms": "Terms",
+      "acceptTerms": "I accept the",
+      "optional": "(optional)"
+    }
+  },
+  "hero129": {
+    "title": "Professional Road Construction Liechtenstein – Quality Paving Services",
+    "description": "LupoBau AG delivers expert road construction, paving services, and road surfacing solutions throughout Liechtenstein. With over 15 years of experience and 200+ completed projects, we transform your infrastructure with precision and care. The journey is the destination.",
+    "cta": "Request Free Quote",
+    "ctaSecondary": "View Our Services",
+    "trusted": "Trusted by 100+ clients across Liechtenstein",
+    "manyMore": "And counting"
+  },
+  "stats17": {
+    "badge": "EXPERIENCE & EXPERTISE",
+    "heading": "Numbers That Prove Our Quality",
+    "description": "LupoBau AG has built a reputation for excellence in road construction across Liechtenstein. Our track record speaks for itself with thousands of satisfied clients and countless successful projects completed.",
+    "trendingUp": "Growing by consistent client satisfaction",
+    "showingVisitors": "Results from years of dedicated service",
+    "stats": [
+      {
+        "title": "15+",
+        "description": "Years of Road Construction Experience"
+      },
+      {
+        "title": "200+",
+        "description": "Successful Projects Completed"
+      },
+      {
+        "title": "100%",
+        "description": "Client Satisfaction Rate"
+      }
+    ]
+  },
+  "services6": {
+    "heading": "Our Core Services",
+    "description": "Professional paving services and road construction solutions designed to meet your infrastructure needs. From initial consultation through completion, we deliver quality results across Liechtenstein.",
+    "services": [
+      {
+        "title": "Paving Services Liechtenstein",
+        "description": "High-quality paving solutions using natural stone, interlocking pavers, and concrete. Our expert team ensures precise installation and lasting durability for residential and commercial projects.",
+        "items": [
+          "Natural Stone Paving",
+          "Interlocking Pavers",
+          "Concrete Paving"
+        ]
+      },
+      {
+        "title": "Road Surfacing Solutions",
+        "description": "Professional road surfacing including asphalt, concrete overlays, and edge stone work. We use premium materials and proven techniques to create smooth, long-lasting surfaces.",
+        "items": [
+          "Asphalt Surfacing",
+          "Concrete Overlays",
+          "Edge Stone Installation"
+        ]
+      },
+      {
+        "title": "Road Construction Liechtenstein",
+        "description": "Complete road construction from planning through execution. Our experienced team handles every phase with precision, ensuring compliance with local standards and superior results.",
+        "items": [
+          "Planning & Design",
+          "Professional Installation",
+          "Quality Assurance"
+        ]
+      },
+      {
+        "title": "Maintenance & Repair",
+        "description": "Ongoing maintenance and repair services to preserve your infrastructure's value and safety. We offer proactive solutions to extend the lifespan of your roads and surfaces.",
+        "items": [
+          "Repair Services",
+          "Maintenance Programs",
+          "Restoration Work"
+        ]
+      }
+    ]
+  },
+  "feature124": {
+    "heading": "Quality Determines Our Success",
+    "description": "At LupoBau AG, quality isn't just a promise—it's our foundation. We source premium materials from trusted suppliers, employ experienced craftspeople, and implement rigorous quality controls throughout every project. Your satisfaction is our success.",
+    "items": [
+      "Premium Materials from Trusted Sources",
+      "Expert Installation by Experienced Team",
+      "Comprehensive Quality Control"
+    ],
+    "cta": "Learn About Our Quality Standards"
+  },
+  "process1": {
+    "heading": "Our Professional Work Process",
+    "description": "We follow a structured, transparent approach for every road construction and paving project. From initial consultation to final inspection, our team ensures quality and professionalism at every step.",
+    "cta": "Request a Free Site Assessment",
+    "steps": [
+      {
+        "title": "1. Initial Consultation & Site Visit",
+        "description": "We begin with a comprehensive site evaluation and detailed consultation. Our experts assess your requirements, examine the current conditions, and discuss your project goals and timeline."
+      },
+      {
+        "title": "2. Planning & Detailed Quotation",
+        "description": "Based on our analysis, we develop a detailed project plan with material specifications, timeline, and transparent pricing. You'll receive a comprehensive quote before any work begins."
+      },
+      {
+        "title": "3. Professional Installation",
+        "description": "Our experienced team executes the project with precision. We use premium materials, proven techniques, and professional equipment to deliver superior results that exceed expectations."
+      },
+      {
+        "title": "4. Final Inspection & Warranty",
+        "description": "We conduct a thorough quality inspection with you before project completion. Your new infrastructure comes with our guarantee of quality and professional workmanship."
+      }
+    ]
+  },
+  "hero229": {
+    "button1": "Our Story",
+    "button2": "Contact Us",
+    "heading": "About LupoBau AG – Your Local Road Construction Experts",
+    "description": "With over 15 years of dedicated service to Liechtenstein, LupoBau AG has earned a reputation for reliability, quality, and professional excellence. Our team of experienced specialists is committed to transforming your infrastructure with precision and care. The journey is the destination.",
+    "seePricing": "View Services"
+  },
+  "hero58": {
+    "heading": "Professional Paving & Road Surfacing Services Liechtenstein",
+    "description": "Complete road construction, paving services, and professional road surfacing for residential and commercial projects. LupoBau AG delivers excellence across Liechtenstein with proven expertise and quality materials.",
+    "cta": "Request Quote Today"
+  },
+  "hero2": {
+    "badge": "Professional Services",
+    "heading": "Infrastructure Excellence for Liechtenstein",
+    "description": "From initial planning to final inspection, we deliver professional road construction and paving solutions. Our commitment to quality and reliability has made us Liechtenstein's trusted choice for infrastructure development.",
+    "button1": "Request Service",
+    "button2": "View Projects"
+  },
+  "testimonial19": {
+    "badge": "Rated 5 stars by 100+ satisfied clients",
+    "heading": "What Our Clients Say",
+    "description": "From Vaduz to across Liechtenstein, our clients trust LupoBau AG for professional road construction and paving services.",
+    "testimonials": [
+      {
+        "name": "Stefan Gruber",
+        "role": "Property Manager, Vaduz",
+        "content": "LupoBau AG transformed our parking area completely. The quality of work and professional approach impressed us. Highly recommended!"
+      },
+      {
+        "name": "Andrea Frick",
+        "role": "Facilities Director",
+        "content": "We've hired LupoBau for multiple projects. Their expertise in road construction and attention to detail are exceptional. Great communication throughout."
+      },
+      {
+        "name": "Klaus Eberle",
+        "role": "Municipality Official",
+        "content": "As a public official, we require the highest standards. LupoBau consistently delivers professional, high-quality work that meets all specifications."
+      },
+      {
+        "name": "Patricia Lochner",
+        "role": "Business Owner",
+        "content": "The paving services exceeded our expectations. The team was professional, efficient, and delivered on schedule. Very satisfied with the results."
+      },
+      {
+        "name": "Thomas Mauerhofer",
+        "role": "Contractor",
+        "content": "We partner with LupoBau on major projects. Their road construction expertise and reliability make them an essential part of our success."
+      },
+      {
+        "name": "Martina Gächter",
+        "role": "Property Owner",
+        "content": "Outstanding service from start to finish. The quality of the road surfacing work is evident every day. Would absolutely hire them again."
+      }
+    ]
+  },
+  "about16": {
+    "heading": "Why Choose LupoBau AG?",
+    "quote": "Quality determines our success. We are a team of experienced professionals who believe in delivering excellence through precision, integrity, and dedication. Our story is built on 15 years of proven expertise and countless satisfied clients throughout Liechtenstein.",
+    "description": "We ask: What are your infrastructure needs? How can we ensure quality results? How do we make the process seamless?\nWe begin with understanding your goals, deliver professional solutions, and ensure lasting value.",
+    "stats": [
+      {
+        "number": "15+",
+        "description": "Years of specialized expertise in road construction, paving services, and road surfacing across Liechtenstein"
+      },
+      {
+        "number": "200+",
+        "description": "Successfully completed projects including residential driveways, commercial spaces, and municipal roads"
+      },
+      {
+        "number": "100%",
+        "description": "Client satisfaction commitment achieved through quality materials, professional workmanship, and transparent communication"
+      }
+    ]
+  },
+  "contact9": {
+    "badge": "Contact LupoBau AG",
+    "heading": "Get in Touch With Our Team",
+    "description": "Ready to discuss your road construction or paving project? Our team is here to help. Contact us for a free consultation and detailed quote.",
+    "methods": [
+      {
+        "title": "Email",
+        "description": "Have questions about our services? Send us an email and we'll respond within 24 hours with answers and recommendations.",
+        "contact": "info@lupobau.li"
+      },
+      {
+        "title": "Phone",
+        "description": "Prefer to speak directly? Call us Monday–Friday, 8 AM–6 PM (Liechtenstein time) for immediate assistance.",
+        "contact": "+423 (XXX) XXX-XXXX"
+      },
+      {
+        "title": "Office",
+        "description": "Visit our office in Liechtenstein to discuss your project in person and view samples of our work.",
+        "contact": "Get Directions"
+      }
+    ]
+  },
+  "contact11": {
+    "heading": "Contact LupoBau AG",
+    "description": "Send us a message about your road construction or paving project. We'll get back to you promptly with information and a free quote.",
+    "corporateOffice": "Main office",
+    "address": "LupoBau AG, Liechtenstein",
+    "emailUs": "Email us",
+    "careers": "Careers",
+    "press": "Press",
+    "followUs": "Follow us",
+    "inquiries": "Project Inquiries"
+  },
+  "cta21": {
+    "heading": "Ready for Your Road Construction Project?",
+    "cta": "Request Your Free Consultation"
+  },
+  "navbar22": {
+    "logo": "LupoBau AG",
+    "location": "Liechtenstein",
+    "navLinks": [
+      {
+        "name": "Home",
+        "href": "#"
+      },
+      {
+        "name": "About Us",
+        "href": "#about"
+      },
+      {
+        "name": "Services",
+        "href": "#services"
+      },
+      {
+        "name": "Contact",
+        "href": "#contact"
+      }
+    ]
+  },
+  "faq5": {
+    "badge": "FAQ",
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our road construction, paving services, and professional work process.",
+    "faqs": [
+      {
+        "question": "What types of paving services does LupoBau AG offer?",
+        "answer": "We provide comprehensive paving services including natural stone paving, interlocking pavers, and concrete paving. Our solutions work for residential driveways, commercial parking areas, and municipal roads throughout Liechtenstein."
+      },
+      {
+        "question": "How long does a typical road construction project take?",
+        "answer": "Project timelines vary based on scope and site conditions. During your free consultation, we'll assess your specific needs and provide a detailed timeline. Most projects are completed within 2-6 weeks depending on size and complexity."
+      },
+      {
+        "question": "Do you provide a warranty on your work?",
+        "answer": "Yes, all LupoBau AG projects include our professional workmanship guarantee. We stand behind the quality of our materials and installation. Specific warranty details are provided with each project quote."
+      },
+      {
+        "question": "What areas of Liechtenstein do you serve?",
+        "answer": "We proudly serve all of Liechtenstein, from Vaduz to Balzers and everywhere in between. Whether you need road construction, paving services, or road surfacing, we're your local experts."
+      },
+      {
+        "question": "How do I request a free quote for my project?",
+        "answer": "Simply contact us via phone, email, or our online form. We'll schedule a site visit to evaluate your project, discuss your needs, and provide a comprehensive quote with transparent pricing."
+      }
+    ]
+  },
+  "team1": {
+    "heading": "Our Expert Team",
+    "description": "LupoBau AG brings together dedicated professionals with decades of combined experience in road construction, paving services, and infrastructure development across Liechtenstein.",
+    "members": [
+      {
+        "name": "Miguel Angel Villar Fernandez",
+        "role": "Construction Specialist"
+      },
+      {
+        "name": "Jose Villar Perez",
+        "role": "Paving Specialist"
+      },
+      {
+        "name": "Sandra Eberle-Frick",
+        "role": "Project Administration"
+      },
+      {
+        "name": "Wolfgang Ferdinand Eberle",
+        "role": "CEO & Operations"
+      },
+      {
+        "name": "Team LupoBau",
+        "role": "Skilled Craftspeople"
+      }
+    ]
+  },
+  "contact5": {
+    "heading": "Contact Us",
+    "description": "Get in touch with LupoBau AG today"
+  },
+  "contact16": {
+    "heading": "Contact Information",
+    "description": "Reach out to our team in Liechtenstein"
+  },
+  "feature2": {
+    "title": "Why LupoBau AG",
+    "description": "Our quality commitment and expertise"
+  },
+  "feature10": {
+    "heading": "Our Commitment to Quality",
+    "description": "Premium materials, expert craftsmanship, and transparent communication define our approach to every road construction and paving project in Liechtenstein."
+  },
+  "feature33": {
+    "heading": "Professional Excellence",
+    "description": "15+ years of proven expertise delivering high-quality road construction, paving services, and road surfacing solutions"
+  },
+  "faq14": {
+    "badge": "Have Questions?",
+    "heading": "Common Questions About Our Services",
+    "description": "Find answers to FAQs about road construction, paving, and professional workmanship"
+  },
+  "hero175": {
+    "heading": "Professional Infrastructure Solutions",
+    "description": "Expert road construction and paving services for Liechtenstein"
+  },
+  "process2": {
+    "heading": "Our Professional Process",
+    "description": "Four-step approach ensuring quality from consultation through project completion"
+  },
+  "projects6": {
+    "heading": "Completed Projects",
+    "description": "Showcasing our road construction and paving work across Liechtenstein"
+  },
+  "services4": {
+    "heading": "Our Services",
+    "description": "Comprehensive paving services, road construction, and professional road surfacing solutions"
+  },
+  "stats19": {
+    "badge": "Our Track Record",
+    "heading": "Years of Excellence",
+    "description": "Experience, projects completed, and client satisfaction in road construction"
+  },
+  "team13": {
+    "heading": "Contact Our Team",
+    "description": "Reach out to LupoBau AG for your road construction and paving needs"
+  },
+  "testimonial8": {
+    "badge": "Client Testimonials",
+    "heading": "What Our Clients Say",
+    "description": "Real reviews from satisfied customers across Liechtenstein"
+  },
+  "testimonial25": {
+    "badge": "Client Reviews",
+    "heading": "Client Feedback",
+    "description": "Testimonials from our satisfied road construction and paving clients"
+  },
+  "timeline10": {
+    "heading": "Our Company Timeline",
+    "description": "The history and milestones of LupoBau AG's success in Liechtenstein"
+  },
+  "structured-data": {
+    "siteName": "LupoBau AG - Road Construction & Paving Services Liechtenstein",
+    "description": "Professional road construction, paving services, and road surfacing solutions in Liechtenstein with 15+ years of expertise"
+  }
+}

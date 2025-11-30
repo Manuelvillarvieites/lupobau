@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name": "LupoBau AG",
+    "industry": "Road construction (Pflästerungen und Belagsarbeiten)",
+    "location": "Liechtenstein",
+    "team": [
+      {
+        "name": "Miguel Angel Villar Fernandez",
+        "role": "construction"
+      },
+      {
+        "name": "Jose Villar Perez",
+        "role": "construction"
+      },
+      {
+        "name": "Sandra Eberle-Frick",
+        "role": "admin"
+      },
+      {
+        "name": "Wolfgang Ferdinand Eberle",
+        "role": "CEO + admin"
+      }
+    ]
+  },
+  "mottos": [
+    "LupoBau AG - Denn der Weg ist das Ziel",
+    "LupoBau AG - die Qualität bestimmt unseren Erfolg"
+  ],
+  "tone": "Professional and Friendly",
+  "colors": {
+    "primary": "#1f497d",
+    "secondary": "#ffff02",
+    "accent": "#ffff02",
+    "background": "#ffffff",
+    "foreground": "#1f497d"
+  },
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter"
+  },
+  "logo": null,
+  "extracted_from": {
+    "colors": "client-brief",
+    "fonts": "defaults",
+    "logo": "not-found-in-project",
+    "tone": "client-brief",
+    "company": "client-brief"
+  }
+}
